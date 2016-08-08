@@ -1,4 +1,5 @@
 Compute pi to a certain number of decimal digits, and print it.
+Required gmplib https://gmplib.org
 
   gcc chudnovskyPi.c -lgmp
 
